@@ -8,7 +8,7 @@
 # 💫 About Me :
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building Advanced Password Manger.
+- 🔭 I’m currently building Advanced Password Manger. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 💬 Ask me about C & C++ or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 

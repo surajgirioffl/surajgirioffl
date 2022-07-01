@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surajgirioffl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajgirioffl)
 
 ## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) !
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
 ## 📈 Activity Graph
@@ -23,10 +23,6 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=surajgirioffl&theme=minimal"/>
 </p>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajgiroffl&theme=vue"/>
-</p>
 
 ## 📟 GitHub Stats
 <p align="center">

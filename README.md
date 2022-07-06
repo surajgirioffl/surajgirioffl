@@ -31,6 +31,12 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=surajgirioffl&theme=minimal"/>
 </p>
 
+## 💳 Github Profile Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajgirioffl&theme=vue"/>
+</p>
+
 ## 📟 GitHub Stats
 
 <p align="center">

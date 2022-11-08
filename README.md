@@ -8,7 +8,7 @@
 # 💫 About Me :
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building Advanced [!Website For BCA Department of My College](https://bca-rds-college.herokuapp.com/) .<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently building Advanced [Website For BCA Department of My College](https://bca-rds-college.herokuapp.com/) .<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about C & C++ or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 

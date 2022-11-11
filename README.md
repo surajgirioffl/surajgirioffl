@@ -18,6 +18,7 @@
 
 ## 💻 Tech Stack
 
+<p float="left">
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -31,6 +32,7 @@
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
 
 ## 📈 Activity Graph
 

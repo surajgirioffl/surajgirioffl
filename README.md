@@ -8,7 +8,7 @@
 # 💫 About Me
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Website For BCA Department of My College](https://rebrand.ly/rdsbca/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently building [Website For BCA Department of My College](https://github.com/surajgirioffl/RDS-BCA-Department) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about C & C++ or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 

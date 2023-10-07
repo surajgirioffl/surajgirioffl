@@ -37,7 +37,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-[![surajgirioffl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajgirioffl&bg_color=fdf7fa&color=050047&line=0de3ca&point=0b2d24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgirioffl&bg_color=1c171a&color=fad900&line=14d2c5&point=fafdff&area=true&hide_border=true"/>
 </p>
 
 ## 💳 Github Profile Summary Card

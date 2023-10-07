@@ -8,8 +8,8 @@
 # 💫 About Me
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Website For BCA Department of My College](https://github.com/surajgirioffl/RDS-BCA-Department) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about C & C++ or any tech-related stuff.
+- 🔭 I’m currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about Python, Web Development or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
@@ -37,7 +37,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=surajgirioffl&theme=minimal"/>
+[![surajgirioffl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajgirioffl&bg_color=fdf7fa&color=050047&line=0de3ca&point=0b2d24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ## 💳 Github Profile Summary Card

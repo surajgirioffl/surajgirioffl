@@ -43,18 +43,28 @@
 ## 💳 Github Profile Summary Card
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajgirioffl&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajgirioffl&theme=dark"/>
 </p>
 
 ## 📟 GitHub Stats
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=surajgirioffl&show_icons=true&theme=vue" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgirioffl&theme=vue" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajgirioffl&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajgirioffl&theme=dark&utcOffset=8" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgirioffl&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajgirioffl&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajgirioffl&theme=dark" />
+</p>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=surajgirioffl&show_icons=true&theme=dark" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgirioffl&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgirioffl&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight">
 <p align="center">
 
 ---

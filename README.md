@@ -46,7 +46,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgirioffl&bg_color=1c171a&color=fad900&line=14d2c5&point=fafdff&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgirioffl&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ## 💳 Github Profile Summary Card

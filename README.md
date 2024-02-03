@@ -8,13 +8,16 @@
 # 💫 About Me
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I'm currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about Python, Web Development or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surajgirioffl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajgirioffl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajgirioffl)
+[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/ueCeIiuYjHSn)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surajgirioffl)
+[![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgirioffl@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -31,6 +34,7 @@
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
@@ -80,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/surajgirioffl) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/surajgirioffl) and introduce yourself (don't just say hi, tell me about yourself")</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ### Show some ❤️ by starring some of the repositories

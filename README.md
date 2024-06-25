@@ -14,7 +14,6 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajgirioffl)
 [![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/ueCeIiuYjHSn)
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surajgirioffl)
 [![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgirioffl@gmail.com)

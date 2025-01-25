@@ -53,7 +53,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgirioffl&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
 </p>
 
-## 💳 Github Profile Summary Card
+## 💳 GitHub Profile Summary Card
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajgirioffl&theme=dark"/>
